@@ -1,6 +1,5 @@
 #!name=开屏去广告
 #!desc=通过脚本去除部分APP的顽固开屏广告
-#!system=ios
 
 [General]
 force-http-engine-hosts = %APPEND% t7z.cupid.iqiyi.com,kjp.cupid.iqiyi.com,*.didapinche.com
